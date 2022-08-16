@@ -1,6 +1,4 @@
 - 👋 Oi, Meu nome é Arthur Brasa
-- 👀 Eu estou interessado em desenvolver jogos 
-- 🌱 Eu atualmente estou estudando como desenvolver sites
 - 📫 Meu e-mail: arthurbrasa@outlook.com
 
 <!---
