@@ -1,6 +1,6 @@
 - 👋 Oi, Meu nome é Arthur Brasa
-- 📫 Meu e-mail: arthurbrasa@outlook.com
-- 📫 Meu e-mail: arthur_brasa@outlook.com
+- 📫  e-mail: arthurbrasa@outlook.com
+- 📫  e-mail: arthur_brasa@outlook.com
 - Meu Portifólio: https://arthurbrasa.web.app/
 
 <!---
